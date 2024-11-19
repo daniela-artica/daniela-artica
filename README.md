@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Daniela, a data analyst passionate about transforming data into actionable insights that drive strategic decision-making.
 
 ## 👩‍💻 About me  
- With expertise in Python, SQL, and Power BI, I specialize in visualizing trends, analize consumer behavior, and deliver key insights that optimize business outcomes. My background in psychology and marketing data analysis enhances my ability to uncover meaningful patterns, create compelling visual narratives, and improve customer engagement strategies. My work spans various projects, from funnel analysis to A/B testing and market trend analysis.
+ With expertise in Python, SQL, and Power BI, I specialize in visualizing trends, analize consumer behavior, and deliver key insights that optimize business outcomes. My background in psychology and marketing research enhances my ability to uncover meaningful patterns, create compelling visual narratives, and improve customer engagement strategies. My work spans various projects, from funnel analysis to A/B testing and market trend analysis.
 
 ## ⚙️ Skills and Technologies  
 **Data Analysis & Visualization**  
